@@ -1,4 +1,15 @@
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129078052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129078052-1');
+</script>
+
 <title>Empréstimo com garantia</title>
 <meta name="description" content=" empréstimo com garantia, a modalidade com as menores taxas do mercado. Entenda mais sobre o empréstimo com garantia.">
 <meta name="keywords" content="empréstimo com garantia, crédito com garantia">
