@@ -1,4 +1,15 @@
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129078052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129078052-1');
+</script>
+
 <title>Empréstimo para empreender</title>
 <meta name="description" content=" Muitos optam por contratar empréstimos para empreender, para evitar ficar descapitalizados ou por não possuir o montante suficiente para dar este novo passo">
 <meta name="keywords" content="empréstimo para empreender">
