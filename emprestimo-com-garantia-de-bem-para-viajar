@@ -1,4 +1,15 @@
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129078052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129078052-1');
+</script>
+
 <title>Empréstimo com garantia de bem para viajar</title>
 <meta name="description" content=" Um tipo de empréstimo que é pouco explorado para os que iniciam o planejamento para uma viagem, é o empréstimo com garantia de bem para viajar.">
 <meta name="keywords" content="empréstimo com garantia de bem para viajar, crédito com garantia de bem para viajar ">
