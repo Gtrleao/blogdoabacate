@@ -1,4 +1,15 @@
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129078052-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129078052-1');
+</script>
+
 <title>Como contratar um empréstimo com garantia de automóvel</title>
 <meta name="description" content=" Um conteúdo de consulta para visualizar de forma rápida as etapas de uma contratação de empréstimo com garantia de automóvel.">
 <meta name="keywords" content="Como contratar um empréstimo com garantia de automóvel">
